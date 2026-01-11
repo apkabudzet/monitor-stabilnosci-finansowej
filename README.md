@@ -82,3 +82,14 @@ Gotowe pliki aplikacji (EXE dla Windows) dostępne są w zakładce **Releases**.
 - projekt hobbystyczny, udostępniany w dobrej wierze
 
 Autor nie ponosi odpowiedzialności za skutki wykorzystania aplikacji.
+
+
+## Jak zacząć
+
+1. Przy pierwszym uruchomieniu zapoznaj się z informacją startową aplikacji.
+2. Uzupełnij podstawowe dane finansowe (dochody, wydatki, zobowiązania).
+3. Sprawdź podsumowanie stabilności finansowej na ekranie głównym.
+4. Zwracaj uwagę na komunikaty ostrzegawcze i statusy ryzyka.
+5. Korzystaj z trybu **Dom** lub przetestuj tryb **Firma** przez 7 dni.
+6. Dane zapisywane są lokalnie – aplikacja automatycznie tworzy kopie zapasowe.
+
